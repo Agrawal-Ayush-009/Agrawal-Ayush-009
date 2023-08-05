@@ -12,6 +12,7 @@
 - 🏫: I am a `Student` at JSS Academy of Technical Education Noida.
 - 👨‍💻: I see `Problems` as an opportunity.
 - 👨‍🎓: I’m currently learning `Data Structures & Algorithms` and `Android Development`.
+- 📱: I'm developing skills in the field of `Android Developement(Kotlin)`.
 <br>
 
 ---
