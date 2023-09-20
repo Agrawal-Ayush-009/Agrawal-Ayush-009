@@ -20,8 +20,8 @@
 ## <picture> <img src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:ayushmaserati@gmail.com"><img  height = 30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/></a>
-	<a href="https://github.com/Agrawal-Ayush-009"><img height = 30px; src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white " target="_blank" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ayushking009/"><img  height = 30px; src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/AgAyush009"><img height = 30px; src="https://img.shields.io/badge/Twitter-%230A66C0.svg?style=plastic&logo=x&logoColor=white" target="_blank" alt="Twitter"/></a>
 </p>
 
 ---
