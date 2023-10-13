@@ -45,3 +45,6 @@
 </div>
 </p>
 <br/>
+<p align="center">
+	<img src="https://codeforces-readme-stats.vercel.app/api/card?username=AyushKing009" alt="7oSkaaa" height="230px"/>
+</p>
