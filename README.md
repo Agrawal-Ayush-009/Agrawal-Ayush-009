@@ -17,8 +17,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
-
 ## <picture> <img src="https://github.com/Agrawal-Ayush-009/Agrawal-Ayush-009/blob/main/assests/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:ayushmaserati@gmail.com"><img  height = 30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/></a>
