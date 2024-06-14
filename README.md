@@ -29,7 +29,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-	    <img alt="Agrawal-Ayush-009's Github Stats" src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,c,git,github,firebase" height="180px"/> 
+	    <img alt="Agrawal-Ayush-009's Github Stats" src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,javascript,nodejs,mongodb,express,npm,html,css,c,git,github,firebase" height="180px"/> 
 
 ---
 
